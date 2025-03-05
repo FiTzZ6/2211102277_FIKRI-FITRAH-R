@@ -2,7 +2,6 @@
 # 2211102277_FIKRI-FITRAH-R
 IG : _fixxyyy
 =======
-# praktikum_3
 
 A new Flutter project.
 
